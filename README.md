@@ -1,6 +1,7 @@
 # 🍺 Анализ продуктовой линейки Лидского пивоваренного завода
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+[![Открыть в nbviewer](https://img.shields.io/badge/Jupyter-Открыть%20ноутбук-orange?logo=jupyter&logoColor=white)](https://nbviewer.org/github/Alexsandered313/lidskoe-analysis/blob/main/lidskoe_analysis.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?logo=plotly&logoColor=white)
