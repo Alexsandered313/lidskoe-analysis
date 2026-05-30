@@ -23,14 +23,12 @@
 
 ## Структура репозитория
 
-```
 lidskoe-analysis/
 ├── lidskoe_analysis.ipynb   # основной ноутбук с анализом
 ├── data/
 │   └── sales_data.csv       # данные о продажах
+├── requirements.txt
 └── README.md
-```
-
 ## Методология
 
 **1. Предобработка данных**
