@@ -22,12 +22,14 @@
 - Построить дашборд для коммерческого отдела
 
 ## Структура репозитория
+```text
 lidskoe-analysis/
-├── lidskoe_analysis.ipynb   
+├── lidskoe_analysis.ipynb
 ├── data/
-│   └── sales_data.csv       
+│   └── sales_data.csv
 ├── requirements.txt
 └── README.md
+```
 ## Методология
 
 **1. Предобработка данных**
